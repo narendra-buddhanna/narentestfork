@@ -1,0 +1,8 @@
+as part of learning GitHub fork option, 
+Created user called narengittest
+Verified e-Mail
+From User "narendra-buddhanna", Created a public repository called "narentestfork"
+From narengittest user searched for "narentestfork" and got the link for "narentestfork" repository
+as well as got HTTPS link from "narendra-buddhanna" account for the "narentestfork" project
+both worked, that is, searching for a project by its name and direct HTTPS link from project's owner
+
